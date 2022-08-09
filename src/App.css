@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+.coin-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 64px;
+  color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Bree Serif", serif;
+  color: #fff;
+  background-color: #000;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
